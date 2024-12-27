@@ -84,6 +84,11 @@ Results
 
 Example: Confusion Matrix
 
+![aaaa](https://github.com/user-attachments/assets/a1b1344e-ce7b-49c0-b4af-ec688e02b032)
+![bbbb](https://github.com/user-attachments/assets/e5ca7480-3131-4c45-8eea-a62444bb6e3c)
+![cccc](https://github.com/user-attachments/assets/6800d9a0-9ee8-4d3e-915b-44b933fea6f1)
+
+
 Key Features
 	1.	Data Augmentation: Enhances dataset variability (rotation, scaling, flipping).
 	2.	Regularization: Uses dropout, L2 regularization, and early stopping to reduce overfitting.
