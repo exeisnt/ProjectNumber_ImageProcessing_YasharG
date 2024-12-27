@@ -98,3 +98,4 @@ Key Features
 Conclusion
 
 This project demonstrates the implementation of a robust deep learning pipeline for image classification. By leveraging techniques like data augmentation, regularization, and hyperparameter tuning, the model achieves competitive performance. Future improvements can involve exploring advanced architectures or larger datasets.
+Downloading data from https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
