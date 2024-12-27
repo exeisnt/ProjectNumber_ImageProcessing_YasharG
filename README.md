@@ -24,14 +24,14 @@ pip install tensorflow matplotlib scikit-learn
 
 Clone the project from GitHub to your local machine:
 
-git clone https://github.com/[YourUsername]/ProjectNumber_ImageProcessing_[YourName].git
-cd ProjectNumber_ImageProcessing_[YourName]
+git clone https://github.com/exeisnt/ProjectNumber_ImageProcessing_YasharG.git
+cd ProjectNumber_ImageProcessing_YasharG
 
 3. Project Structure
 
 The project directory is organized as follows:
 
-ProjectNumber_ImageProcessing_[YourName]/
+ProjectNumber_ImageProcessing_YasharG/
 ├── data/                # Dataset folder
 ├── code/                # Source code files
 │   ├── preprocess.py    # Data preprocessing and augmentation
